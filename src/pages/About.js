@@ -32,7 +32,7 @@ const About = () => (
             </Slide>
             <Slide direction="up" triggerOnce="true">
               <p className="mb-6 text-lg font-normal text-text lg:text-xl">
-                As a sophomore computer science student, I specialize in
+                As a junior computer science student, I specialize in
                 crafting and launching dynamic user interfaces and experiences
                 as a Full-stack Web Developer. I harness the latest technologies
                 and design systems to create interactive solutions that
